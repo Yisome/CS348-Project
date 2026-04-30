@@ -1,0 +1,7 @@
+
+
+As talked about in demo video, I primarily used AI in order to aid the process in creating the frontend dashboard after I had created the backend.
+
+Along with this I used it in the get_analytics sql query as it was a complicated one that I needed help on.
+
+I also used it to generate me dummy data so that I wouldnt need to hand make all such data to put into my database
